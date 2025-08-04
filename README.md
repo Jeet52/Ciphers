@@ -62,10 +62,3 @@ Hello World!
 Enter the number of characters to rotate by:
 3
 Encrypted text: KHOOR ZRUOG!
-License
-
-This project is provided as-is for educational purposes.
-
-Author
-
-Jeet Patel
